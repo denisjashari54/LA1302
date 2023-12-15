@@ -26,12 +26,12 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 | 3    | Kann            | Funktional  | Als ein Benutzer möchte ich mein Passwort zurücksetzen können, falls ich es vergessen habe, um wieder auf mein Konto zugreifen zu können. |
 | 4    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, nach Autos basierend auf die Marke zu filtern um das gewünschte Auto zu finden.|
 | 5    | Muss            | Funktional  | Als ein Benutzer möchte ich die Suchergebnisse sortieren können, um die relevantesten Angebote zuerst anzuzeigen, z. B. nach Preis aufsteigend oder absteigend. |
-| 6    | Muss            | Funktional  | Als ein Benutzer möchte ich detaillierte Informationen zu jedem gefundenen Auto anzeigen können, einschließlich technischer Daten, Fotos und Verkäuferkontaktinformationen. |
+| 6    | Muss            | Funktional  | Als ein Benutzer möchte ich detaillierte Informationen zu jedem gefundenen Auto anzeigen können, einschließlich technischer Daten und Fotos. |
 | 7    | Muss            | Qualität    | Als ein Benutzer möchte ich eine benutzerfreundliche und intuitive Website erleben, die einfach zu navigieren ist und klare Anweisungen bietet. |
 | 8    | Muss            | Qualität    | Als ein Benutzer möchte ich, dass die Website schnell lädt und reaktionsschnell ist, unabhängig vom verwendeten Gerät oder Browser. |
-| 9    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, die Option haben ein Auto in meinen Warenkorb zu legen. |
+| 9    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, ein Auto in meinen Warenkorb zu legen. |
 | 10   | Muss            | Funktional  | Als ein Benutzer möchte ich die Option haben, wennn ich angemeldet bin meinen Warenkorb anzusehen. |
-| 11   | Kann            | Qualität    | Als ein Benutzer möchte ich detaillierte Bewertungen und Kommentare von anderen Benutzern über die Autos und Verkäufer auf der Website sehen, um fundierte Entscheidungen zu treffen. |
+| 11   | Kann            | Qualität    | Als ein Benutzer möchte ich detaillierte Bewertungen und Kommentare von anderen Benutzern über die Autos auf der Website sehen, um fundierte Entscheidungen zu treffen. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
