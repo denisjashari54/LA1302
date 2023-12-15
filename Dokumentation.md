@@ -47,7 +47,7 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 
 ### 1.4 Diagramme
 
-## Mockups
+# Mockups
 
 # Startseite
 ![image](https://github.com/denisjashari54/LA1302/assets/107101355/2443fed5-bcdb-40bb-b3cb-34e4f7e15d0c)
