@@ -33,16 +33,25 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 | 10   | Muss            | Funktional  | Als ein Benutzer möchte ich die Option haben, wennn ich angemeldet bin meinen Warenkorb anzusehen. |
 | 11   | Kann            | Qualität    | Als ein Benutzer möchte ich detaillierte Bewertungen und Kommentare von anderen Benutzern über die Autos auf der Website sehen, um fundierte Entscheidungen zu treffen. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| TC-№ | Ausgangslage       | Eingabe                     | Erwartete Ausgabe                                    |
+| ----- | ------------------ | --------------------------- | ---------------------------------------------------- |
+| 1.1   | Startseite         | Klick auf "Registrieren"    | Registrierungsformular wird angezeigt                |
+| 1.2   | Registrierungsformular | Ausgefülltes Formular         | Bestätigungsnachricht über erfolgreiche Registrierung |
+| 2.1   | Startseite         | Klick auf "Anmelden"        | Anmeldeformular wird angezeigt                       |
+| 2.2   | Anmeldeformular    | Eingabe von Benutzerdaten   | Zugang zum Benutzerkonto                             |
+| 3.1   | Anmeldeformular    | Klick auf "Passwort vergessen" | Formular zum Zurücksetzen des Passworts            |
+| 3.2   | Passwort zurücksetzen Formular | Eingabe von Benutzer-Email | Anweisungen zum Zurücksetzen des Passworts per Email |
+| 4.1   | Fahrzeugangebotsseite | Auswahl einer Automarke aus dem Filter | Liste von Autos der gewählten Marke                |
+| 5.1   | Suchergebnisse     | Sortierung auswählen        | Sortierte Liste der Suchergebnisse                   |
+| 6.1   | Auto-Liste         | Klick auf ein Auto          | Detailansicht des gewählten Autos mit technischen Daten und Fotos |
+| 7.1   | Beliebige Seite    | Navigation durch die Website | Einfache und intuitive Nutzung der Website          |
+| 8.1   | Beliebige Seite    | Zugriff von verschiedenen Geräten/Browsern | Schnelles Laden und reaktionsschnelle Darstellung |
+| 9.1   | Auto-Liste         | Klick auf "In den Warenkorb legen" | Bestätigung, dass das Auto zum Warenkorb hinzugefügt wurde |
+| 10.1  | Während angemeldet | Klick auf "Warenkorb"       | Anzeige der Inhalte des Warenkorbs                   |
+| 11.1  | Auto-Detailansicht | Scrollen zu Bewertungen     | Anzeige von Bewertungen und Kommentaren anderer Benutzer |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
