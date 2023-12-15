@@ -15,7 +15,7 @@ Angelov, Bajramovic, Jashari, Marku
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla JavaScript, ermöglicht es Kunden, einfach durch Automodelle zu stöbern und zu kaufen.
 
 ### 1.2 User Stories
 
