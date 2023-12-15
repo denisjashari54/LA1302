@@ -5,10 +5,10 @@ Angelov, Bajramovic, Jashari, Marku
 | Datum       | Version | Zusammenfassung                                              |
 | ----------- | ------- | ------------------------------------------------------------ |
 | 17.11.2023  | 0.0.1   | Beginn der Planungs- und Entwicklungsphase für die Auto-Website. Erstellung der Konzepte für Anmelde- und Registrierfunktionen sowie Struktur der Startseite und Unterseiten. |
-| 24.11.2023  | 0.1.0   | Programmierung der Startseite begonnen, Aufteilung und Zuweisung der Unterseiten für verschiedene Automarken. |
-| 01.12.2023  | 0.1.1   | Überarbeitung und Detailplanung der Website, Entwicklung der Anmelde- und Registrierfunktion sowie Erweiterung der Unterseiten für die Automarken. |
-| 08.12.2023  | 0.2.0   | Revision der Website, Verfeinerung der Funktionen und Designs für die Startseite und die spezifischen Automarken-Seiten. |
-| 15.12.2023  | 0.2.1   | Abschluss der Entwicklungsarbeiten, vorläufige Fertigstellung der Auto-Website, Beginn der Vorbereitung auf den Portfolioeintrag. |
+| 24.11.2023  | 0.0.2   | Programmierung der Startseite begonnen, Aufteilung und Zuweisung der Unterseiten für verschiedene Automarken. |
+| 01.12.2023  | 0.0.3   | Überarbeitung und Detailplanung der Website, Entwicklung der Anmelde- und Registrierfunktion sowie Erweiterung der Unterseiten für die Automarken. |
+| 08.12.2023  | 0.0.3   | Revision der Website, Verfeinerung der Funktionen und Designs für die Startseite und die spezifischen Automarken-Seiten. |
+| 15.12.2023  | 0.0.4   | Abschluss der Entwicklungsarbeiten, vorläufige Fertigstellung der Auto-Website, Beginn der Vorbereitung auf den Portfolioeintrag. |
 | 22.12.2023  | 1.0.0   | Endgültige Version der Auto-Website abgeschlossen, Erstellung der detaillierten Dokumentation und Portfolioeintrag erledigt. |
 
 ## 1 Informieren
@@ -21,18 +21,17 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 
 | US-№ | Verbindlichkeit | Typ         | Beschreibung                                     |
 | ---- | --------------- | ----------- | ------------------------------------------------ |
-| 1    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, nach Autos basierend auf verschiedenen Kriterien wie Marke, Modell, Preis und Standort zu suchen, um das gewünschte Auto zu finden. |
-| 2    | Muss            | Funktional  | Als ein Benutzer möchte ich die Suchergebnisse filtern können, um meine Suche zu verfeinern, indem ich Optionen wie Kilometerstand, Baujahr und Kraftstofftyp auswähle. |
-| 3    | Muss            | Funktional  | Als ein Benutzer möchte ich die Suchergebnisse sortieren können, um die relevantesten Angebote zuerst anzuzeigen, z. B. nach Preis aufsteigend oder absteigend. |
-| 4    | Muss            | Funktional  | Als ein Benutzer möchte ich detaillierte Informationen zu jedem gefundenen Auto anzeigen können, einschließlich technischer Daten, Fotos und Verkäuferkontaktinformationen. |
-| 5    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, ein Benutzerkonto zu erstellen, um meine Suchanfragen und gespeicherten Favoriten zu verwalten. |
-| 6    | Muss            | Funktional  | Als ein Benutzer möchte ich mich mit meinem Benutzerkonto anmelden können, um auf meine gespeicherten Informationen und Präferenzen zuzugreifen. |
-| 7    | Kann            | Funktional  | Als ein Benutzer möchte ich mein Passwort zurücksetzen können, falls ich es vergessen habe, um wieder auf mein Konto zugreifen zu können. |
-| 8    | Muss            | Qualität    | Als ein Benutzer möchte ich eine benutzerfreundliche und intuitive Website erleben, die einfach zu navigieren ist und klare Anweisungen bietet. |
-| 9    | Muss            | Qualität    | Als ein Benutzer möchte ich, dass die Website schnell lädt und reaktionsschnell ist, unabhängig vom verwendeten Gerät oder Browser. |
-| 10   | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, den Verkäufer über ein Kontaktformular zu erreichen, um Fragen oder Interesse an einem Auto auszudrücken. |
-| 11   | Muss            | Funktional  | Als ein Benutzer möchte ich Benachrichtigungen oder E-Mail-Benachrichtigungen erhalten, wenn neue Autos auftauchen, die meinen Suchkriterien entsprechen. |
-| 12   | Kann            | Qualität    | Als ein Benutzer möchte ich detaillierte Bewertungen und Kommentare von anderen Benutzern über die Autos und Verkäufer auf der Website sehen, um fundierte Entscheidungen zu treffen. |
+| 1    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, ein Benutzerkonto zu erstellen (registrieren).  |
+| 2    | Muss            | Funktional  | Als ein Benutzer möchte ich mich mit meinem Benutzerkonto anmelden können. |
+| 3    | Kann            | Funktional  | Als ein Benutzer möchte ich mein Passwort zurücksetzen können, falls ich es vergessen habe, um wieder auf mein Konto zugreifen zu können. |
+| 4    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, nach Autos basierend auf die Marke zu filtern um das gewünschte Auto zu finden.|
+| 5    | Muss            | Funktional  | Als ein Benutzer möchte ich die Suchergebnisse sortieren können, um die relevantesten Angebote zuerst anzuzeigen, z. B. nach Preis aufsteigend oder absteigend. |
+| 6    | Muss            | Funktional  | Als ein Benutzer möchte ich detaillierte Informationen zu jedem gefundenen Auto anzeigen können, einschließlich technischer Daten, Fotos und Verkäuferkontaktinformationen. |
+| 7    | Muss            | Qualität    | Als ein Benutzer möchte ich eine benutzerfreundliche und intuitive Website erleben, die einfach zu navigieren ist und klare Anweisungen bietet. |
+| 8    | Muss            | Qualität    | Als ein Benutzer möchte ich, dass die Website schnell lädt und reaktionsschnell ist, unabhängig vom verwendeten Gerät oder Browser. |
+| 9    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, die Option haben ein Auto in meinen Warenkorb zu legen. |
+| 10   | Muss            | Funktional  | Als ein Benutzer möchte ich die Option haben, wennn ich angemeldet bin meinen Warenkorb anzusehen. |
+| 11   | Kann            | Qualität    | Als ein Benutzer möchte ich detaillierte Bewertungen und Kommentare von anderen Benutzern über die Autos und Verkäufer auf der Website sehen, um fundierte Entscheidungen zu treffen. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
