@@ -4,11 +4,14 @@
 
 ✍️ Ihr Gruppenname und Ihre Nachnamen
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum       | Version | Zusammenfassung                                              |
+| ----------- | ------- | ------------------------------------------------------------ |
+| 17.11.2023  | 0.0.1   | Beginn der Planungs- und Entwicklungsphase für das Projekt. Erste Konzepte und Entwürfe wurden erstellt. |
+| 24.11.2023  | 0.1.0   | Revision der ersten Entwürfe und Konzepte, Anpassungen basierend auf initialem Feedback. |
+| 01.12.2023  | 0.1.1   | Fortführung der Überarbeitungen, Beginn der Detailplanung und erweiterte Entwicklungsarbeiten. |
+| 08.12.2023  | 0.2.0   | Weitere Revisionen und Verfeinerung der Projektentwürfe, Vorbereitung auf die Endphase der Entwicklung. |
+| 15.12.2023  | 0.2.1   | Abschluss der Entwicklungsarbeiten, vorläufige Fertigstellung des Projekts, Beginn der Vorbereitung auf den Portfolioeintrag. |
+| 22.12.2023  | 1.0.0   | Endgültige Version abgeschlossen, detaillierte Dokumentation für den Portfolioeintrag erstellt und das Projekt zur Veröffentlichung freigegeben. |
 
 ## 1 Informieren
 
@@ -18,10 +21,20 @@
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| US-№ | Verbindlichkeit | Typ         | Beschreibung                                     |
+| ---- | --------------- | ----------- | ------------------------------------------------ |
+| 1    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, nach Autos basierend auf verschiedenen Kriterien wie Marke, Modell, Preis und Standort zu suchen, um das gewünschte Auto zu finden. |
+| 2    | Muss            | Funktional  | Als ein Benutzer möchte ich die Suchergebnisse filtern können, um meine Suche zu verfeinern, indem ich Optionen wie Kilometerstand, Baujahr und Kraftstofftyp auswähle. |
+| 3    | Muss            | Funktional  | Als ein Benutzer möchte ich die Suchergebnisse sortieren können, um die relevantesten Angebote zuerst anzuzeigen, z. B. nach Preis aufsteigend oder absteigend. |
+| 4    | Muss            | Funktional  | Als ein Benutzer möchte ich detaillierte Informationen zu jedem gefundenen Auto anzeigen können, einschließlich technischer Daten, Fotos und Verkäuferkontaktinformationen. |
+| 5    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, ein Benutzerkonto zu erstellen, um meine Suchanfragen und gespeicherten Favoriten zu verwalten. |
+| 6    | Muss            | Funktional  | Als ein Benutzer möchte ich mich mit meinem Benutzerkonto anmelden können, um auf meine gespeicherten Informationen und Präferenzen zuzugreifen. |
+| 7    | Kann            | Funktional  | Als ein Benutzer möchte ich mein Passwort zurücksetzen können, falls ich es vergessen habe, um wieder auf mein Konto zugreifen zu können. |
+| 8    | Muss            | Qualität    | Als ein Benutzer möchte ich eine benutzerfreundliche und intuitive Website erleben, die einfach zu navigieren ist und klare Anweisungen bietet. |
+| 9    | Muss            | Qualität    | Als ein Benutzer möchte ich, dass die Website schnell lädt und reaktionsschnell ist, unabhängig vom verwendeten Gerät oder Browser. |
+| 10   | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, den Verkäufer über ein Kontaktformular zu erreichen, um Fragen oder Interesse an einem Auto auszudrücken. |
+| 11   | Muss            | Funktional  | Als ein Benutzer möchte ich Benachrichtigungen oder E-Mail-Benachrichtigungen erhalten, wenn neue Autos auftauchen, die meinen Suchkriterien entsprechen. |
+| 12   | Kann            | Qualität    | Als ein Benutzer möchte ich detaillierte Bewertungen und Kommentare von anderen Benutzern über die Autos und Verkäufer auf der Website sehen, um fundierte Entscheidungen zu treffen. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
