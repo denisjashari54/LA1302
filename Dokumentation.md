@@ -78,8 +78,18 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A | 15.06.2023 | Marku | Entwicklung der Registrierungsfunktion für Benutzerkonten. | 120' |
+| 2.A | 22.06.2023 | Jashari | Implementierung der Anmeldefunktion für Benutzerkonten. | 120' |
+| 3.A | 29.06.2023 | Bajramovic | Implementierung der Funktion zum Zurücksetzen von Passwörtern. | 60' |
+| 4.A | 06.07.2023 | Angelov | Entwicklung der Filterfunktion für Autosuche nach Marken. | 180' |
+| 5.A | 13.07.2023 | Marku | Implementierung der Sortierfunktion für Suchergebnisse. | 120' |
+| 6.A | 20.07.2023 | Jashari | Programmierung der Detailansicht für Autos mit Fotos und Daten. | 180' |
+| 7.A | 27.07.2023 | Bajramovic | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
+| 8.A | 03.08.2023 | Angelov | Sicherstellung der Ladegeschwindigkeit und Responsivität der Website. | 240' |
+| 9.A | 10.08.2023 | Marku | Integration der Warenkorbfunktion für ausgewählte Autos. | 120' |
+| 10.A | 17.08.2023 | Jashari | Entwicklung der Warenkorbansicht für angemeldete Benutzer. | 120' |
+| 11.A | 24.08.2023 | Bajramovic | Integration von Benutzerbewertungen und Kommentaren zu Autos. | 180' |
+
 
 Total: 
 
