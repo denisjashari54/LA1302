@@ -4,12 +4,12 @@ Angelov, Bajramovic, Jashari, Marku
 
 | Datum       | Version | Zusammenfassung                                              |
 | ----------- | ------- | ------------------------------------------------------------ |
-| 17.11.2023  | 0.0.1   | Beginn der Planungs- und Entwicklungsphase für das Projekt. Erste Konzepte und Entwürfe wurden erstellt. |
-| 24.11.2023  | 0.1.0   | Revision der ersten Entwürfe und Konzepte, Anpassungen basierend auf initialem Feedback. |
-| 01.12.2023  | 0.1.1   | Fortführung der Überarbeitungen, Beginn der Detailplanung und erweiterte Entwicklungsarbeiten. |
-| 08.12.2023  | 0.2.0   | Weitere Revisionen und Verfeinerung der Projektentwürfe, Vorbereitung auf die Endphase der Entwicklung. |
-| 15.12.2023  | 0.2.1   | Abschluss der Entwicklungsarbeiten, vorläufige Fertigstellung des Projekts, Beginn der Vorbereitung auf den Portfolioeintrag. |
-| 22.12.2023  | 1.0.0   | Endgültige Version abgeschlossen, detaillierte Dokumentation für den Portfolioeintrag erstellt und das Projekt zur Veröffentlichung freigegeben. |
+| 17.11.2023  | 0.0.1   | Beginn der Planungs- und Entwicklungsphase für die Auto-Website. Erstellung der Konzepte für Anmelde- und Registrierfunktionen sowie Struktur der Startseite und Unterseiten. |
+| 24.11.2023  | 0.1.0   | Programmierung der Startseite begonnen, Aufteilung und Zuweisung der Unterseiten für verschiedene Automarken. |
+| 01.12.2023  | 0.1.1   | Überarbeitung und Detailplanung der Website, Entwicklung der Anmelde- und Registrierfunktion sowie Erweiterung der Unterseiten für die Automarken. |
+| 08.12.2023  | 0.2.0   | Revision der Website, Verfeinerung der Funktionen und Designs für die Startseite und die spezifischen Automarken-Seiten. |
+| 15.12.2023  | 0.2.1   | Abschluss der Entwicklungsarbeiten, vorläufige Fertigstellung der Auto-Website, Beginn der Vorbereitung auf den Portfolioeintrag. |
+| 22.12.2023  | 1.0.0   | Endgültige Version der Auto-Website abgeschlossen, Erstellung der detaillierten Dokumentation und Portfolioeintrag erledigt. |
 
 ## 1 Informieren
 
