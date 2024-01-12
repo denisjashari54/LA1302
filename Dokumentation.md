@@ -120,11 +120,8 @@ Total: 1160min
 | TC-№ | Datum      | Resultat | Tester      |
 | ---- | ---------- | -------- | ----------- |
 | 1.1  | 12.01.2024 |   Funktioniert       | Angelov     |
-| 1.2  | 12.01.2024 |   Funktioniert       | Jashari     |
 | 2.1  | 12.01.2024 |   Funktioniert       | Marku       |
-| 2.2  | 12.01.2024 |   Funktioniert      | Bajramovic  |
-| 3.1  | 12.01.2024 |   Funktioniert       | Angelov     |
-| 3.2  | 12.01.2024 |   Funktioniert       | Jashari     |
+| 3.1  | 12.01.2024 |   Funktioniert       | Jashari     |
 | 4.1  | 12.01.2024 |   Funktioniert      | Marku       |
 | 5.1  | 12.01.2024 |         | Bajramovic  |
 | 6.1  | 12.01.2024 |   Funktioniert       | Angelov     |
