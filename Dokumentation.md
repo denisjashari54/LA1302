@@ -98,17 +98,17 @@ Wir haben uns ent
 
 | AP-№ | Datum      | Zuständig   | Geplante Zeit | Tatsächliche Zeit |
 | ---- | ---------- | ----------- | ------------- | ----------------- |
-| 1.A  | 15.06.2023 | Marku       | 120'          |  110              |
-| 2.A  | 22.06.2023 | Jashari     | 120'          |  100              |
-| 3.A  | 29.06.2023 | Bajramovic  | 60'           |  50               |
-| 4.A  | 06.07.2023 | Angelov     | 180'          |   140             |
-| 5.A  | 13.07.2023 | Marku       | 120'          |   100             |
-| 6.A  | 20.07.2023 | Jashari     | 180'          |    140            |
-| 7.A  | 27.07.2023 | Bajramovic  | 240'          |    120            |
-| 8.A  | 03.08.2023 | Angelov     | 240'          |    160            |
-| 9.A  | 10.08.2023 | Marku       | 120'          |     80            |
-| 10.A | 17.08.2023 | Jashari     | 120'          |    80             |
-| 11.A | 24.08.2023 | Bajramovic  | 180'          |   80              |
+| 1.A  | 15.06.2023 | Marku       | 120'          |  110'                 |
+| 2.A  | 22.06.2023 | Jashari     | 120'          |  100'                 |
+| 3.A  | 29.06.2023 | Bajramovic  | 60'           |  50'                  |
+| 4.A  | 06.07.2023 | Angelov     | 180'          |  140'                |
+| 5.A  | 13.07.2023 | Marku       | 120'          |  100'               |
+| 6.A  | 20.07.2023 | Jashari     | 180'          |  140'              |
+| 7.A  | 27.07.2023 | Bajramovic  | 240'          |  120'               |
+| 8.A  | 03.08.2023 | Angelov     | 240'          |  160'               |
+| 9.A  | 10.08.2023 | Marku       | 120'          |  80'               |
+| 10.A | 17.08.2023 | Jashari     | 120'          |  80'                |
+| 11.A | 24.08.2023 | Bajramovic  | 180'          |  80'                 |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
