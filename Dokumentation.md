@@ -92,23 +92,23 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns ent
 
 ## 4 Realisieren
 
 | AP-№ | Datum      | Zuständig   | Geplante Zeit | Tatsächliche Zeit |
 | ---- | ---------- | ----------- | ------------- | ----------------- |
-| 1.A  | 15.06.2023 | Marku       | 120'          |                   |
-| 2.A  | 22.06.2023 | Jashari     | 120'          |                   |
-| 3.A  | 29.06.2023 | Bajramovic  | 60'           |                   |
-| 4.A  | 06.07.2023 | Angelov     | 180'          |                   |
-| 5.A  | 13.07.2023 | Marku       | 120'          |                   |
-| 6.A  | 20.07.2023 | Jashari     | 180'          |                   |
-| 7.A  | 27.07.2023 | Bajramovic  | 240'          |                   |
-| 8.A  | 03.08.2023 | Angelov     | 240'          |                   |
-| 9.A  | 10.08.2023 | Marku       | 120'          |                   |
-| 10.A | 17.08.2023 | Jashari     | 120'          |                   |
-| 11.A | 24.08.2023 | Bajramovic  | 180'          |                   |
+| 1.A  | 15.06.2023 | Marku       | 120'          |  110              |
+| 2.A  | 22.06.2023 | Jashari     | 120'          |  100              |
+| 3.A  | 29.06.2023 | Bajramovic  | 60'           |  50               |
+| 4.A  | 06.07.2023 | Angelov     | 180'          |   140             |
+| 5.A  | 13.07.2023 | Marku       | 120'          |   100             |
+| 6.A  | 20.07.2023 | Jashari     | 180'          |    140            |
+| 7.A  | 27.07.2023 | Bajramovic  | 240'          |    120            |
+| 8.A  | 03.08.2023 | Angelov     | 240'          |    160            |
+| 9.A  | 10.08.2023 | Marku       | 120'          |     80            |
+| 10.A | 17.08.2023 | Jashari     | 120'          |    80             |
+| 11.A | 24.08.2023 | Bajramovic  | 180'          |   80              |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -118,20 +118,20 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 
 | TC-№ | Datum      | Resultat | Tester      |
 | ---- | ---------- | -------- | ----------- |
-| 1.1  | 12.01.2024 |          | Angelov     |
-| 1.2  | 12.01.2024 |          | Jashari     |
-| 2.1  | 12.01.2024 |          | Marku       |
-| 2.2  | 12.01.2024 |          | Bajramovic  |
-| 3.1  | 12.01.2024 |          | Angelov     |
-| 3.2  | 12.01.2024 |          | Jashari     |
-| 4.1  | 12.01.2024 |          | Marku       |
-| 5.1  | 12.01.2024 |          | Bajramovic  |
-| 6.1  | 12.01.2024 |          | Angelov     |
-| 7.1  | 12.01.2024 |          | Jashari     |
-| 8.1  | 12.01.2024 |          | Marku       |
-| 9.1  | 12.01.2024 |          | Bajramovic  |
-| 10.1 | 12.01.2024 |          | Angelov     |
-| 11.1 | 12.01.2024 |          | Jashari     |
+| 1.1  | 12.01.2024 |   Funktioniert       | Angelov     |
+| 1.2  | 12.01.2024 |   Funktioniert       | Jashari     |
+| 2.1  | 12.01.2024 |   Funktioniert       | Marku       |
+| 2.2  | 12.01.2024 |   Funktioniert      | Bajramovic  |
+| 3.1  | 12.01.2024 |   Funktioniert       | Angelov     |
+| 3.2  | 12.01.2024 |   Funktioniert       | Jashari     |
+| 4.1  | 12.01.2024 |   Funktioniert      | Marku       |
+| 5.1  | 12.01.2024 |   Funktioniert       | Bajramovic  |
+| 6.1  | 12.01.2024 |   Funktioniert       | Angelov     |
+| 7.1  | 12.01.2024 |   Funktioniert       | Jashari     |
+| 8.1  | 12.01.2024 |   Funktioniert       | Marku       |
+| 9.1  | 12.01.2024 |   Funktioniert      | Bajramovic  |
+| 10.1 | 12.01.2024 |   Funktioniert       | Angelov     |
+| 11.1 | 12.01.2024 |   Funktioniert       | Jashari     |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
@@ -144,9 +144,6 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
 
 
 
