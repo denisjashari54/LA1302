@@ -92,7 +92,8 @@ Eine benutzerfreundliche SPA Website für den Autoverkauf, erstellt mit Vanilla 
 
 ## 3 Entscheiden
 
-Wir haben uns ent
+
+Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Implementieren beitragen. Dadurch haben wir auch eine gute Zeiteinteilung erreicht.
 
 ## 4 Realisieren
 
@@ -110,7 +111,7 @@ Wir haben uns ent
 | 10.A | 17.08.2023 | Jashari     | 120'          |  80'                |
 | 11.A | 24.08.2023 | Bajramovic  | 180'          |  80'                 |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+Total: 1160min
 
 ## 5 Kontrollieren
 
