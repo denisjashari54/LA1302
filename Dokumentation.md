@@ -134,16 +134,6 @@ Total: 1160min
 | 10.1 | 12.01.2024 |   Funktioniert       | Angelov     |
 | 11.1 | 12.01.2024 |   Funktioniert       | Jashari     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 
 
