@@ -123,13 +123,13 @@ Total: 1160min
 | 2.1  | 12.01.2024 |   Funktioniert       | Marku       |
 | 3.1  | 12.01.2024 |   Funktioniert       | Jashari     |
 | 4.1  | 12.01.2024 |   Funktioniert      | Marku       |
-| 5.1  | 12.01.2024 |         | Bajramovic  |
+| 5.1  | 12.01.2024 |   Funktioniert      | Bajramovic  |
 | 6.1  | 12.01.2024 |   Funktioniert       | Angelov     |
 | 7.1  | 12.01.2024 |   Funktioniert       | Jashari     |
 | 8.1  | 12.01.2024 |   Funktioniert       | Marku       |
-| 9.1  | 12.01.2024 |         | Bajramovic  |
-| 10.1 | 12.01.2024 |         | Angelov     |
-| 11.1 | 12.01.2024 |         | Jashari     |
+| 9.1  | 12.01.2024 |   Funktioniert      | Bajramovic  |
+| 10.1 | 12.01.2024 |   Funktioniert      | Angelov     |
+| 11.1 | 12.01.2024 |   Funktioniert      | Jashari     |
 
 
 
